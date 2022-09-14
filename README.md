@@ -1,4 +1,4 @@
-## CMS Tech Blog
+## Tech Blog
 
 ## Description
 
